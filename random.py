@@ -28,7 +28,7 @@ if __name__ == '__main__':
     print("As can be seen from the generated sequence,")
     print("5 numbers were generated before the sequence repeated.")
         
-    # Testing our random-number generator with for k = 1, 3, 7 and N = 100, 10000, 100000
+    # Testing our random-number generator for k = 1, 3, 7 and N = 100, 10000, 100000
     print("\n-------------------------------------------------")
     ks = [1, 3, 7]
     Ns = [100, 10000, 100000]
